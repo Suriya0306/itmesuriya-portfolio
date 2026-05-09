@@ -5,7 +5,7 @@ Welcome to my professional portfolio repository. This project is a high-performa
 ![Portfolio Cover](C:\Users\nsuri\.gemini\antigravity\brain\707cee75-9683-41d4-aaa6-665e7d94dff7\suriya_n_portfolio_cover_1778342244537.png)
 
 ## 🚀 Live Preview
-View the live experience here: **[Link to your deployed site, e.g., GitHub Pages/Vercel]**
+View the live experience here: **[itsmesuriya.netlify.app](https://itsmesuriya.netlify.app)**
 
 ---
 
